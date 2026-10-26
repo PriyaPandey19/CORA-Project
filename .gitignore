@@ -1,0 +1,8 @@
+*.onnx.data
+__pychache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+data/
