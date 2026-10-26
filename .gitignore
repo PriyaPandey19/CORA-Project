@@ -1,4 +1,4 @@
-*.onnx.data
+
 __pychache__/
 *.pyc
 *.pyo
